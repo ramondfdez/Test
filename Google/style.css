@@ -1,0 +1,99 @@
+.nav {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+ul {
+    list-style-type: none;
+    display: inline-flex;
+    margin: 0px;
+    padding: 0px;
+}
+li a {
+    text-decoration: none;
+    margin: 8px;
+}
+#sign-in {
+    color: white;
+    font-weight: bold;
+    background-color: rgb(38, 135, 233);
+    padding: 7px 13px 7px 13px;
+    border: none;
+    position: relative;
+    top: 10px;
+    border-radius: 2px;
+}
+#appgrid {
+    padding: 10px;
+    height: 16px;
+    width: 16px;
+}
+.navtext {
+    padding-top: 10px;
+}
+.rnav {
+    float: right;
+}
+.center {
+    display: block;
+    text-align: -webkit-center;
+    margin-top: 89px;
+}
+#logo {
+    height: 92px;
+    width: 272px;
+    padding-top: 109px;
+    padding-bottom: 25px;
+}
+#search {
+    border: none;
+    width: 490px;
+    height: 38px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+.search {
+    border: 1px solid lightgray;
+    border-radius: 25px;
+    width: 600px;
+    height: 40px;
+    padding: 2px 2px 2px 2px;
+    display: inline-flex;
+}
+#search-img {
+    height: 15px;
+    width: 15px;
+    padding: 10px;
+    color: gray;
+    padding: 13px 17px;
+}
+#microphone {
+    height: 20px;
+    width: 14px;
+    padding: 10px 0px 5px 20px;
+}
+.buttons {
+    margin-top: 30px;
+    margin-left: 8px;
+    border-radius: 3px;
+    padding: 11px 15px;
+    border: none;
+    background-color: rgb(241, 241, 241);
+    color: rgba(0, 0, 0, 0.664);
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+.footer {
+    background-color: rgb(235, 235, 235);
+    height: 20px;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.rfoot {
+    float: right;
+    margin: 0px 22px;
+}
